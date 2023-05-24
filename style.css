@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 30px;
+    background-image: url(https://cdn.pixabay.com/photo/2023/04/10/15/07/cactus-7914007_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+h1{
+    text-align: center;
+    color: hotpink;
+    font-size: 4rem;
+    margin-bottom: 30px;
+}
+p{
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    background-color: aqua;
+    border-radius: 5px;
+}
