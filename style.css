@@ -20,9 +20,12 @@ body{
 }
 h1{
     text-align: center;
-    color: hotpink;
+    color: rgb(216, 47, 131);
     font-size: 4rem;
     margin-bottom: 30px;
+    padding-top: 20px;
+    text-shadow: 10px 12px 10px rgb(18, 91, 155);
+
 }
 p{
     margin-bottom: 20px;
