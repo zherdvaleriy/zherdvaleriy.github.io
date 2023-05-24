@@ -14,13 +14,13 @@ body{
 .wrapper{
     width: 50%;
     margin: 0 auto;
-    background-color: azure;
+    background-color: rgb(110, 181, 131);
     opacity: .7;
     border-radius: 5px;
 }
 h1{
     text-align: center;
-    color: rgb(216, 47, 131);
+    color: rgb(28, 54, 34);
     font-size: 4rem;
     margin-bottom: 30px;
     padding-top: 20px;
