@@ -11,6 +11,13 @@ body{
     background-size: cover;
     background-position: top;
 }
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+    background-color: azure;
+    opacity: .7;
+    border-radius: 5px;
+}
 h1{
     text-align: center;
     color: hotpink;
