@@ -1,3 +1,3 @@
 # zherdvaleriy.github.io
 Hello
-Hello world!
+index.html and style.css were created and pushed
