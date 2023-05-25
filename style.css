@@ -10,6 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
+ 
 }
 .wrapper{
     width: 50%;
@@ -17,6 +18,7 @@ body{
     background-color: rgb(110, 181, 131);
     opacity: .7;
     border-radius: 5px;
+
 }
 h1{
     text-align: center;
@@ -24,7 +26,7 @@ h1{
     font-size: 4rem;
     margin-bottom: 30px;
     padding-top: 20px;
-    text-shadow: 10px 12px 10px rgb(18, 91, 155);
+    text-shadow: 10px 12px 15px rgb(144, 85, 61), 1px 1px 20px rgb(63, 115, 141);
 
 }
 p{
